@@ -1,7 +1,6 @@
 .idea
 .gradle
 local.properties
-.DS_Store
 /build
 /gradle/wrapper/*.jar
 
